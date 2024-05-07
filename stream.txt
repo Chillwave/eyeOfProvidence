@@ -1,0 +1,1 @@
+http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg
